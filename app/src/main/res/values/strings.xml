@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Ejercisio7</string>
+    <string name="Titulo">Manejo intenciones</string>
+    <string name="boton1">Exolicitas</string>
+    <string name="boton2">Implicita</string>
+    <string name="boton11">Explicita</string>
+    <string name="ventana2">Tecladito</string>
+    <string name="Mostrar" />
+    <string name="boton3">1</string>
+    <string name="boton4">2</string>
+    <string name="boton5">B</string>
+    <string name="boton6">3</string>
+    <string name="boton7">4</string>
+    <string name="boton8">C</string>
+</resources>
